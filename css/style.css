@@ -43,7 +43,9 @@ p{
 /* Estilo da tag a*/
 
 a{
-    color:rgb(88, 212, 138);
+    text-decoration: none;
+    color: #99ffff;
+    font-weight: 700;
 }
 
 /* Estilo da section da Ada */
@@ -65,3 +67,10 @@ img{
 .adaTabela{
     max-width: 80%;
 }*/
+
+ul{
+    list-style-type: none;
+    line-height: 2;
+    padding-left: 0%;
+}
+
